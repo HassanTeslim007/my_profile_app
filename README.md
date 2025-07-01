@@ -1,16 +1,22 @@
-# myapp
+# 🧑‍💻 My Profile App
 
-A new Flutter project.
+A simple Flutter app that displays a personal profile using basic Flutter widgets.  
+Perfect for beginners to understand layouts, styling, asset management, and widget structure.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Displays a profile photo, name, and role
+- About Me section
+- List of skills
+- Contact information (email, phone, and portfolio)
+- Simple and responsive layout
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*(Add your emulator/device screenshots here)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) – UI toolkit for building natively compiled apps
+- Dart – Programming language for Flutter
+- [FirebaseStudio](htttps://studio.firebase.google.com) - Online VScode IDE
